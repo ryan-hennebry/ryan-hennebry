@@ -18,7 +18,8 @@ Cambridge ↔ London | Early-stage startup generalist | Building agent workflows
 - [Evergreen App](https://github.com/ryan-hennebry/evergreen-app) — turns reading notes into lasting knowledge
 
 ## GitHub Activity
-![GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ryan-hennebry&theme=github-dark&hide_border=true)
+<img width="1052" height="421" alt="image" src="https://github.com/user-attachments/assets/c2f27f14-13f7-4f20-ac46-860bd80a8aac" />
+
 
 ## Connect
 - [LinkedIn](https://www.linkedin.com/in/ryanhennebry)
