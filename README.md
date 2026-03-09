@@ -1,6 +1,6 @@
 # Ryan Hennebry
 
-Cambridge ↔ London | Startup generalist | First employee at minima.global | Building agent workflows
+Cambridge ↔ London | Startup generalist | First employee at minima.global | Building agents 
 
 ![Python](https://img.shields.io/badge/Python-000?logo=python&logoColor=white&style=for-the-badge)
 ![TypeScript](https://img.shields.io/badge/TypeScript-000?logo=typescript&logoColor=white&style=for-the-badge)
@@ -12,12 +12,12 @@ I’m building AI agents to increase my leverage, so I can focus on work that re
 
 ## Current Projects
 ### Agents
-- [Competitor Intel](https://github.com/ryan-hennebry/competitor-intel) – sends weekly briefing on market changes with positioning recommendations
+- [Competitor Intel](https://github.com/ryan-hennebry/competitor-intel) – sends a weekly briefing on market changes with positioning recommendations
 - [Compound Marketing](https://github.com/ryan-hennebry/compound-marketing) — analyses weekly campaign metrics and recommends growth experiments
 - [Career Matching](https://github.com/ryan-hennebry/career-matching) — discovers good-fit roles, scores fit, and generates application briefs
 
 ### Apps
-- [Evergreen](https://github.com/ryan-hennebry/evergreen) — turns what you read and listen to into a web of connected ideas
+- [Evergreen](https://github.com/ryan-hennebry/evergreen) — turns the core ideas from what you read and listen to into a web of connected notes 
 
 ## GitHub Activity
 ![GitHub contribution grid](https://ghchart.rshah.org/ryan-hennebry)
