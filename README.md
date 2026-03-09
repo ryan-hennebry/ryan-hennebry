@@ -1,6 +1,6 @@
 # Ryan Hennebry
 
-Cambridge ↔ London | Startup generalist | First employee at [Minima](https://minima.global) | Building AI agents
+Cambridge ↔ London | Startup generalist | First employee at [minima.global](https://minima.global) | Building AI agents
 
 ![Python](https://img.shields.io/badge/Python-000?logo=python&logoColor=white&style=for-the-badge)
 ![TypeScript](https://img.shields.io/badge/TypeScript-000?logo=typescript&logoColor=white&style=for-the-badge)
