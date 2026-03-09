@@ -8,7 +8,7 @@ Cambridge ↔ London | Early-stage startup generalist | Building agent workflows
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-000?logo=githubactions&logoColor=white&style=for-the-badge)
 ![Claude Code](https://img.shields.io/badge/Claude_Code-000?logo=anthropic&logoColor=white&style=for-the-badge)
 
-I’m building AI agents to increase my leverage at startups, so I can focus on work that requires taste or judgment.
+I’m building AI agents to increase my leverage at startups, so I can focus on work that requires my taste or judgment.
 
 ## Current Projects
 ### Agents
