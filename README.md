@@ -1,4 +1,4 @@
-# Ryan Hennebry
+# Hi, I'm Ryan 
 
 Cambridge ↔ London | Early-stage startup generalist | Building agent workflows
 
