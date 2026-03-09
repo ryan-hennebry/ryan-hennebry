@@ -4,11 +4,13 @@ Cambridge ↔ London | Startup generalist | First employee at [minima.global](ht
 
 ![Python](https://img.shields.io/badge/Python-000?logo=python&logoColor=white&style=for-the-badge)
 ![TypeScript](https://img.shields.io/badge/TypeScript-000?logo=typescript&logoColor=white&style=for-the-badge)
+![HTML](https://img.shields.io/badge/HTML-000?logo=html5&logoColor=white&style=for-the-badge)
+![CSS](https://img.shields.io/badge/CSS-000?logo=css3&logoColor=white&style=for-the-badge)
 ![SQL](https://img.shields.io/badge/SQL-000?logo=postgresql&logoColor=white&style=for-the-badge)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-000?logo=githubactions&logoColor=white&style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-000?logo=git&logoColor=white&style=for-the-badge)
 ![Claude Code](https://img.shields.io/badge/Claude_Code-000?logo=anthropic&logoColor=white&style=for-the-badge)
 
-I’m building AI agents to increase my leverage while working at startups, so I can focus on what requires taste or judgment instead.
+I’m building AI agents to increase my leverage at startups, so I can focus on what requires taste or judgment.
 
 ## Current Projects
 ### Agents
