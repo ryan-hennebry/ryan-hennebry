@@ -1,6 +1,6 @@
 # Ryan Hennebry
 
-Cambridge ↔ London | Startup generalist | First employee at minima.global | Building agents 
+Cambridge ↔ London | Startup generalist | First employee at minima.global | Building AI agents 
 
 ![Python](https://img.shields.io/badge/Python-000?logo=python&logoColor=white&style=for-the-badge)
 ![TypeScript](https://img.shields.io/badge/TypeScript-000?logo=typescript&logoColor=white&style=for-the-badge)
@@ -8,7 +8,7 @@ Cambridge ↔ London | Startup generalist | First employee at minima.global | Bu
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-000?logo=githubactions&logoColor=white&style=for-the-badge)
 ![Claude Code](https://img.shields.io/badge/Claude_Code-000?logo=anthropic&logoColor=white&style=for-the-badge)
 
-I’m building AI agents to increase my leverage, so I can focus on work that requires taste or judgment.
+I’m building AI agents to increase my leverage at startups, so I can focus on work that requires taste or judgment.
 
 ## Current Projects
 ### Agents
