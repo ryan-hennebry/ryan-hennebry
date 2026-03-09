@@ -10,7 +10,7 @@ Cambridge ↔ London | Startup generalist | First employee at [minima.global](ht
 ![Git](https://img.shields.io/badge/Git-000?logo=git&logoColor=white&style=for-the-badge)
 ![Claude Code](https://img.shields.io/badge/Claude_Code-000?logo=anthropic&logoColor=white&style=for-the-badge)
 
-I’m building AI agents to increase my leverage at startups, so I can focus on what requires taste or judgment.
+I’m building AI agents to automate routine startup work, so I can focus on higher-leverage problems.
 
 ## Current Projects
 ### Agents
