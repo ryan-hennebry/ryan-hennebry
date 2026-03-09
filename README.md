@@ -8,7 +8,7 @@ Cambridge ↔ London | Startup generalist | First employee at [Minima](https://m
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-000?logo=githubactions&logoColor=white&style=for-the-badge)
 ![Claude Code](https://img.shields.io/badge/Claude_Code-000?logo=anthropic&logoColor=white&style=for-the-badge)
 
-I’m building AI agents to increase my leverage at startups, so I can focus on work that requires taste or judgment.
+I’m building AI agents to increase my leverage while working at startups, so I can focus on what requires taste or judgment instead.
 
 ## Current Projects
 ### Agents
@@ -23,5 +23,5 @@ I’m building AI agents to increase my leverage at startups, so I can focus on 
 ![GitHub contribution grid](https://ghchart.rshah.org/ryan-hennebry)
 
 ## Connect
-- [LinkedIn](https://www.linkedin.com/in/ryanhennebry)
-- [Email](mailto:ryanhennebry@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/ryanhennebry)
+[![Email](https://img.shields.io/badge/Email-000?logo=gmail&logoColor=white&style=for-the-badge)](mailto:ryanhennebry@gmail.com)
