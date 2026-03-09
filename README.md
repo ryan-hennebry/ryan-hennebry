@@ -17,7 +17,7 @@ I’m building AI agents to increase my leverage at startups, so I can focus on 
 - [Career Matching](https://github.com/ryan-hennebry/career-matching) — discovers good-fit roles, scores fit, and generates application briefs
 
 ### Apps
-- [Evergreen](https://github.com/ryan-hennebry/evergreen) — turns the core ideas from what you read and listen to into a web of connected notes 
+- [Evergreen](https://github.com/ryan-hennebry/evergreen) — turns the core ideas from what you read into a web of connected notes 
 
 ## GitHub Activity
 ![GitHub contribution grid](https://ghchart.rshah.org/ryan-hennebry)
