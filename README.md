@@ -1,6 +1,6 @@
 # Ryan Hennebry
 
-Cambridge ↔ London | Early-stage startup generalist | First employee at minima.global | Building agent workflows
+Cambridge ↔ London | Startup generalist | First employee at minima.global | Building agent workflows
 
 ![Python](https://img.shields.io/badge/Python-000?logo=python&logoColor=white&style=for-the-badge)
 ![TypeScript](https://img.shields.io/badge/TypeScript-000?logo=typescript&logoColor=white&style=for-the-badge)
