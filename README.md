@@ -12,7 +12,7 @@ I’m building AI agents to increase my leverage at startups, so I can focus on 
 
 ## Current Projects
 ### Agents
-- [Competitor Intel](https://github.com/ryan-hennebry/competitor-intel) – sends a weekly briefing on market changes with positioning recommendations
+- [Competitor Intel](https://github.com/ryan-hennebry/competitor-intel) – sends a weekly briefing on market changes with positioning ideas
 - [Compound Marketing](https://github.com/ryan-hennebry/compound-marketing) — analyses weekly campaign metrics and recommends experiments
 - [Career Matching](https://github.com/ryan-hennebry/career-matching) — discovers good-fit roles, scores fit, and generates application briefs
 
