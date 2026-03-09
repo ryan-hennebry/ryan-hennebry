@@ -11,10 +11,13 @@ Cambridge ↔ London | Early-stage startup generalist | Building agent workflows
 > I’m building AI agents to turn routine startup work into software that runs without me, so I can focus on the work that needs taste or judgment. The goal is simple: increase my leverage.
 
 ## Current Projects
-- [Competitor Intel Agent](https://github.com/ryan-hennebry/competitor-intel-agent) – weekly positioning briefs
-- [Compound Marketing Agent](https://github.com/ryan-hennebry/compound-marketing-agent) — metrics-driven campaign ideas
-- [Career Matching Agent](https://github.com/ryan-hennebry/career-matching-agent) — role discovery, scoring, application briefs
-- [Evergreen App](https://github.com/ryan-hennebry/evergreen-app) — reading notes → lasting knowledge
+## Agents
+- [Competitor Intel](https://github.com/ryan-hennebry/competitor-intel-agent) – weekly positioning briefs
+- [Compound Marketing](https://github.com/ryan-hennebry/compound-marketing-agent) — metrics-driven campaign ideas
+- [Career Matching](https://github.com/ryan-hennebry/career-matching-agent) — role discovery, scoring, application briefs
+
+## Apps
+- [Evergreen](https://github.com/ryan-hennebry/evergreen-app) — reading notes → lasting knowledge
 
 ## GitHub Activity
 ![GitHub contribution grid](https://ghchart.rshah.org/ryan-hennebry)
