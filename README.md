@@ -12,12 +12,12 @@ I’m building AI agents to increase my leverage, so I can focus on work that re
 
 ## Current Projects
 ### Agents
-- [Competitor Intel](https://github.com/ryan-hennebry/competitor-intel) – weekly positioning briefs
-- [Compound Marketing](https://github.com/ryan-hennebry/compound-marketing) — metrics-driven campaign ideas
-- [Career Matching](https://github.com/ryan-hennebry/career-matching) — role discovery, scoring, application briefs
+- [Competitor Intel](https://github.com/ryan-hennebry/competitor-intel) – sends weekly briefing on market changes with positioning recommendations
+- [Compound Marketing](https://github.com/ryan-hennebry/compound-marketing) — analyses weekly campaign metrics and recommends growth experiments
+- [Career Matching](https://github.com/ryan-hennebry/career-matching) — discovers good-fit roles, scores fit, and generates application briefs
 
 ### Apps
-- [Evergreen](https://github.com/ryan-hennebry/evergreen) — reading notes → lasting knowledge
+- [Evergreen](https://github.com/ryan-hennebry/evergreen) — turns what you read and listen to into a web of connected ideas
 
 ## GitHub Activity
 ![GitHub contribution grid](https://ghchart.rshah.org/ryan-hennebry)
