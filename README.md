@@ -14,12 +14,12 @@ I’m building AI agents to automate routine startup work, so I can focus on hig
 
 ## Current Projects
 ### Agents
-- [Competitor Intel](https://github.com/ryan-hennebry/competitor-intel) – sends a weekly briefing on market changes with positioning ideas
-- [Compound Marketing](https://github.com/ryan-hennebry/compound-marketing) — analyses weekly campaign metrics and recommends experiments
-- [Career Matching](https://github.com/ryan-hennebry/career-matching) — discovers good-fit roles, scores fit, and generates application briefs
+- [Competitor Intel](https://github.com/ryan-hennebry/competitor-intel): Sends a weekly briefing on market changes with positioning ideas
+- [Compound Marketing](https://github.com/ryan-hennebry/compound-marketing): Analyses weekly campaign metrics and recommends experiments
+- [Career Matching](https://github.com/ryan-hennebry/career-matching): Discovers good-fit roles, scores fit, and generates application briefs
 
 ### Apps
-- [Evergreen](https://github.com/ryan-hennebry/evergreen) — turns the core ideas from what you read into a web of connected notes 
+- [Evergreen](https://github.com/ryan-hennebry/evergreen): Turns the core ideas from what you read into a web of connected notes 
 
 ## GitHub Activity
 ![GitHub contribution grid](https://ghchart.rshah.org/ryan-hennebry)
