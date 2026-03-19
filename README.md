@@ -15,7 +15,7 @@ I’m building AI agents to automate routine startup work, to focus on higher-le
 
 ## Current Projects
 ### Agents
-- **[Competitor Intel](https://github.com/ryan-hennebry/competitor-intel)**: Tracks competitor moves and delivers weekly briefs on threats and opportunities.
+- **[Competitor Intel](https://github.com/ryan-hennebry/competitor-intel)**:  Tracks competitor moves and surfaces threats and opportunities in weekly briefs.
 - **[Compound Marketing](https://github.com/ryan-hennebry/compound-marketing)**: Reviews campaign results and recommends the best experiment to run.
 - **[Career Matching](https://github.com/ryan-hennebry/career-matching)**: Analyses your CV, ranks role matches, and drafts tailored application briefs.
 
