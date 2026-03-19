@@ -11,13 +11,13 @@ Cambridge ↔ London · Early-stage startup generalist · First employee at [min
 ![Git](https://img.shields.io/badge/Git-000?logo=git&logoColor=white&style=for-the-badge)
 ![Claude Code](https://img.shields.io/badge/Claude_Code-000?logo=anthropic&logoColor=white&style=for-the-badge)
 
-I’m building AI agents to automate routine startup work, so I can focus on higher-leverage problems.
+I’m building AI agents to automate routine startup work, to focus on higher-leverage problems.
 
 ## Current Projects
 ### Agents
-- **[Competitor Intel](https://github.com/ryan-hennebry/competitor-intel)**: Receive weekly competitor briefings on market changes, threat shifts, and positioning opportunities.
-- **[Compound Marketing](https://github.com/ryan-hennebry/compound-marketing)**: Analyse marketing campaign metrics and receive growth experiment recommendations based on data.
-- **[Career Matching](https://github.com/ryan-hennebry/career-matching)**: Find roles, rank them against your background, and get application briefs for the matches worth pursuing.
+- **[Competitor Intel](https://github.com/ryan-hennebry/competitor-intel)**: Tracks competitor moves and delivers weekly briefs on threats and opportunities.
+- **[Compound Marketing](https://github.com/ryan-hennebry/compound-marketing)**: Reviews campaign results and recommends the next growth experiment to run.
+- **[Career Matching](https://github.com/ryan-hennebry/career-matching)**: Analyses your CV, ranks role matches, and drafts tailored application briefs.
 
 ## GitHub Activity
 ![GitHub contribution grid](https://ghchart.rshah.org/ryan-hennebry)
