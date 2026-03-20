@@ -17,7 +17,7 @@ I’m building AI agents to automate routine startup work, to focus on higher-le
 ### Agents
 - **[Competitor Intel](https://github.com/ryan-hennebry/competitor-intel)**:  Tracks competitor moves and surfaces threats and opportunities in weekly briefs.
 - **[Growth Experiments](https://github.com/ryan-hennebry/growth-experiments)**: Reviews campaign results and recommends the next best experiment to run.
-- **[Career Matching](https://github.com/ryan-hennebry/career-matching)**: Analyses your CV, ranks role matches, and drafts tailored application briefs.
+- **[Career Matching](https://github.com/ryan-hennebry/career-matching)**: Analyses your CV, ranks roles on fit, and drafts tailored application briefs.
 
 ## GitHub Activity
 ![GitHub contribution grid](https://ghchart.rshah.org/ryan-hennebry)
