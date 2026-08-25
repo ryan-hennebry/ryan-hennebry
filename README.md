@@ -1,10 +1,9 @@
 # Ryan Hennebry
 
-Cambridge ↔ London · Early-stage startup generalist · First employee at [minima.global](https://minima.global) · Building AI agents
+First employee at [minima.global](https://minima.global) · Now building AI agents
 
 ![Python](https://img.shields.io/badge/Python-000?logo=python&logoColor=white&style=for-the-badge)
 ![TypeScript](https://img.shields.io/badge/TypeScript-000?logo=typescript&logoColor=white&style=for-the-badge)
-![Rust](https://img.shields.io/badge/Rust-000?logo=rust&logoColor=white&style=for-the-badge)
 ![HTML](https://img.shields.io/badge/HTML-000?logo=html5&logoColor=white&style=for-the-badge)
 ![CSS](https://img.shields.io/badge/CSS-000?logo=css3&logoColor=white&style=for-the-badge)
 ![SQL](https://img.shields.io/badge/SQL-000?logo=postgresql&logoColor=white&style=for-the-badge)
